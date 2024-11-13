@@ -1,1 +1,1 @@
-Had made this repo locally, 48 hours challenge, which is why it does not have commits.
+Pump.fun is a platform on the Solana blockchain that allows users to create and trade "memecoins"—a type of cryptocurrency associated more with community and entertainment than intrinsic utility. Known for its ease of use, Pump.fun enables anyone to create a custom token by connecting a Solana-compatible wallet, setting up a coin name, symbol, and supply, and minting it on the blockchain.
